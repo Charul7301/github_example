@@ -1,2 +1,2 @@
 # github_example
-this is an demonstrative repository just to learn how to create repository
+this is my repository just to learn and upload some codes and projects that I have worked on.
